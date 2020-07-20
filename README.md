@@ -1,4 +1,5 @@
                                                                                    
 # minecraft-textures
-My textues for minecrfat mods. or even my texture pack
-Its updated regulary
+My textures made for Minecraft mods. or even texture packs
+it updated regulary 
+with maxmimum buffering 2 days
