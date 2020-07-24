@@ -13,8 +13,4 @@ Project is created with:
 ## Setup
 To see whats inside. Simly download latest rerlease. or  use github
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+
