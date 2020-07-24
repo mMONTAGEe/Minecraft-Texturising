@@ -1,6 +1,6 @@
                                                                                    
-# Textures for mods. Interstellar-Exoplanets and beautiful screenshots for new loading screen Galaxy Space
-My textures homegrown. made for Minecraft mods. or even texture packs
+# Textures
+My Homegrown textures. made for Minecraft mods. or even texture packs
 it updated regulary. You can already get Latest Release.
 Best versions being automatically uploaded to github
 
@@ -8,4 +8,6 @@ Best versions being automatically uploaded to github
 
 [EDS Github](https://github.com/EDS-Team/EDS-Projects)
 
+(Textures) Interstelalr Exoplanets.
+(Loading Screen) Galaxy Space
 For any contact . mMONTAGEe#9127 (discord)
