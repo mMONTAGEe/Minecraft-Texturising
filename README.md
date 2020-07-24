@@ -1,13 +1,20 @@
-                                                                                   
-# Textures
-My Homegrown textures. made for Minecraft mods. or even texture packs
-it updated regulary. You can already get Latest Release.
-Best versions being automatically uploaded to github
+## Table of contents
+* Textures for Minecraft Mods
+* Java/Paint.net/Good friends
 
-[My main place are here. in EDS Dicord Server](https://discord.gg/weqxsMP)
+## General info
+This *project* are made to add minecraft mods some king of Textures. Mainly working on Interstellar-Exoplanets
+	
+## Technologies
+Project is created with:
+* Program version: Paint.net
+* Coded to version: Java 8
+	
+## Setup
+To see whats inside. Simly download latest rerlease. or  use github
 
-[EDS Github](https://github.com/EDS-Team/EDS-Projects)
-
-(Textures) Interstelalr Exoplanets.
-(Loading Screen) Galaxy Space
-For any contact . mMONTAGEe#9127 (discord)
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
