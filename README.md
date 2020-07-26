@@ -9,7 +9,7 @@ Im helping this project. becouse i really love this Project. and Galaxy Space. t
 	
 ## Technologies
 Project is created with:
-* Program version: Paint.net
+* Program used: Paint.net
 * Coded to version: Java 8
 	
 ## Setup
