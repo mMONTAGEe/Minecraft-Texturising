@@ -15,6 +15,8 @@ Project is created with:
 ## Setup
 To see whats inside. Simly download latest rerlease. or  use github
 
+## Discord
+
 
 [Interstellar-Exoplanets](https://discord.gg/fResd3V)
 
